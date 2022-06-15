@@ -1,0 +1,22 @@
+.col.s12.m7{
+    width: 70%;
+}
+body{
+    display: grid;
+    justify-content: center;
+}
+form,
+input,
+button,
+.pokemon-card-content{
+    text-align: center;
+}
+.pokemon-card-content{
+    display: grid;
+    font-size: 11px;
+}
+button{
+    width: 45%;
+    height: 100%;
+    font-size: 15px;
+}
